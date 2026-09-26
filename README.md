@@ -1,1 +1,1 @@
-# EventHub-Gest-o-de-Eventos-e-Inscri-es-
+# EventHub-Gestao-de-Eventos-e-Inscricoes-
